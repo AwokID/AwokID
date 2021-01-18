@@ -9,6 +9,7 @@ Hal itu saya lakukan untuk mengisi kekosongan diwaktu senggang saya.
 
 - Self working😅
 - Hanya menguasai python dasar😂
+- Open source people👦
 
 ### Temukan saya🌏
 
