@@ -1,4 +1,4 @@
-### Halo Semuanya perkenalkan saya Davit 🖐
+### Halo perkenalkan saya Davit 🖐
 
 ![Awok's Github Stats](https://github-readme-stats.vercel.app/api?username=AwokID&show_icons=true&theme=radical)
 
