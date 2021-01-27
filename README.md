@@ -1,5 +1,7 @@
 ### Halo perkenalkan saya Davit 🖐
 
+?author=<AwokID>
+
 ![Awok's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AwokID&show_icons=true&theme=radical)
 
 ### Sedikit tentang saya 😃
