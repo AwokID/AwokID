@@ -1,3 +1,6 @@
+<img src="https://f.top4top.io/p_1864w8v7v0.png"/>
+
+
 ### Halo perkenalkan saya Davit 🖐
 
 ![Awok's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavitID&show_icons=true&theme=radical)
