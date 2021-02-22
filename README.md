@@ -17,4 +17,4 @@ Hal itu saya lakukan untuk mengisi kekosongan diwaktu senggang saya.
 ### Temukan saya🌏
 
 - [Facebook](https://www.facebook.com/Davit.ex.1238)
-- [Instagram](https://instagram.com/tea_rex5)
+- [Instagram](https://instagram.com/davit__id)
