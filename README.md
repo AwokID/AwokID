@@ -1,4 +1,4 @@
-<img src="https://f.top4top.io/p_1864w8v7v0.png"/>
+<img src="logo.png"/>
 
 
 ### Halo perkenalkan saya Davit 🖐
