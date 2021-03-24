@@ -1,6 +1,5 @@
 <img src="logo.png"/>
 
-
 ### Halo perkenalkan saya Davit 🖐
 
 ![Awok's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DavitID&show_icons=true&theme=radical)
